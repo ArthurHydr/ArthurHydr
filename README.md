@@ -8,7 +8,7 @@
 * I am studying javascript and its most used frameworks
 * The languages I use most are: Python, Ruby, C and Javascript
 
-<div style="display: inline_block">
+<div style="display: inline_block; cursor: default">
   <a href="https://github.com/ArthurHydr">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
@@ -23,7 +23,7 @@
 
 ##
 
-<div>
+<div style="cursor: default">
   <a href="https://github.com/ArthurHydr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhydr&show_icons=true&bg_color=0d1117&hide_border=False&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=12&bg_color=0d1117&hide_border=False&theme=synthwave"/>

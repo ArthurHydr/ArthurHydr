@@ -29,7 +29,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
 <div>
 
-
 ---
 <div>
   <a href = "mailto: arthurottoniribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

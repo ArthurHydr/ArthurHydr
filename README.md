@@ -3,9 +3,7 @@
 ### Welcome to my github! Here I put my projects so that anyone can look, study, improve and etc.
 ---
 ## I'm Arthur Ottoni
-* I live in Brasil, southeast -> Barbacena-MG
 * I study cybersecurity and work with bug bounty for hackerone
-* I am studying javascript and its most used frameworks
 * The languages I use most are: Python, Ruby, C and Javascript
 
 <div style="display: inline_block">

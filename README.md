@@ -21,14 +21,14 @@
 
 ##
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/ArthurHydr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhydr&show_icons=true&bg_color=0d1117&hide_border=False&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
 <div>
 
 ---
-<div>
+<div style="display: inline_block">
   <a href = "mailto: arthurottoniribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-ottoni-a62902207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCQxsPy4aLwGQ9fjZhsDJ70Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

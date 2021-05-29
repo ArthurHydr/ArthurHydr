@@ -26,9 +26,9 @@
 
 <div style="display: inline">
   <a href="https://github.com/ArthurHydr">
-    <img height="180em" src="https://spotify-github-profile.vercel.app/api/view?uid=zvhljxg9t6621jq3in6qpk9kn&cover_image=true&theme=default">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhydr&show_icons=true&bg_color=0d1117&hide_border=False&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
+  <img width="330em" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhydr&show_icons=true&bg_color=0d1117&hide_border=False&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img width="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
+  <img width="150em" height="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=zvhljxg9t6621jq3in6qpk9kn&cover_image=true&theme=default">
   
 <div>
 

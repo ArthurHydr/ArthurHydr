@@ -27,8 +27,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
 <div>
 
-![Snake animation](https://github.com/arthurhydr/arthurhydr/blob/output/github-contribution-grid-snake.svg)
-  
+<div>
+  <a href="https://github.com/arthurhydr">
+  <img src="https://github.com/ArthurHydr/ArthurHydr/blob/output/github-contribution-grid-snake.svg">
+</div>
 ---
   
 <div style="display: inline_block">

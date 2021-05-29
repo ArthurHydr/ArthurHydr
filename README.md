@@ -27,8 +27,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhydr&layout=compact&langs_count=10&bg_color=0d1117&hide_border=False&theme=synthwave"/>
 <div>
 
+![Snake animation](https://github.com/arthurhydr/arthurhydr/blob/output/github-contribution-grid-snake.svg)
+  
 ---
-
+  
 <div style="display: inline_block">
   	<a href="https://www.youtube.com/channel/UCQxsPy4aLwGQ9fjZhsDJ70Q" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   	<a href="https://instagram.com/ottoni.arthur" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

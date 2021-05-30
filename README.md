@@ -1,12 +1,6 @@
 ## ♠️ Arthur Ottoni Ribeiro ♦️
 
-### Welcome to my github! Here I put my projects so that anyone can look, study, improve and etc.
----
-## I'm Arthur Ottoni
-
-* I study cybersecurity and work with bug bounty for hackerone
-* The languages I use most are: Python, Ruby, C and Javascript
-
+### Welcome to my github! Here I always try to bring projects that can help or facilitate the learning of my students on youtube and so that I can learn together with you!
 <div style="display: inline_block; flex-direction: row">
   <a href="https://github.com/ArthurHydr">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,6 +13,20 @@
   <img align="center" alt="Arthur-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Arthur-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+---
+
+## About Me
+```js
+const ArthurOttoni = {
+  'Name': 'Arthur',
+  'Age': 17,
+  'Langs': 'Ruby, Python, Javascript, C, SQL, Rust'
+  'Tech': 'Git, Apache',
+  'SO': 'Arch Linux'
+}
+```
+
 
 ##
 

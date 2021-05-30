@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## ♠️ About Me ♦️
 ```js
 const ArthurOttoni = {
   'Name': 'Arthur',

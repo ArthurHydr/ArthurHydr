@@ -4,10 +4,8 @@
 ---
 ## I'm Arthur Ottoni
 
-<div style="display: inline">
-  <li>I study cybersecurity and work with bug bounty for hackerone</li>
-  <li>The languages I use most are: Python, Ruby, C and Javascript</li>
-</div>
+* I study cybersecurity and work with bug bounty for hackerone
+* The languages I use most are: Python, Ruby, C and Javascript
 
 <div style="display: inline_block; flex-direction: row">
   <a href="https://github.com/ArthurHydr">

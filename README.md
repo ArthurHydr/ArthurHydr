@@ -19,9 +19,7 @@
 ## ♠️ About Me ♦️
 ```js
 const ArthurOttoni = {
-  'Name': 'Arthur',
-  'Age': 17,
-  'Langs': 'Ruby, Python, Javascript, C, SQL, Rust'
+  'Langs': 'Ruby, Python, Javascript, C, SQL, Rust',
   'Tech': 'Git, Apache',
   'SO': 'Arch Linux'
 }

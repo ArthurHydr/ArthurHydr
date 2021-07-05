@@ -19,8 +19,9 @@
 ## ♠️ About Me ♦️
 ```js
 const ArthurOttoni = {
-  'Langs': 'Ruby, Python, Javascript, C, SQL, Rust',
-  'Tech': 'Git, Apache',
+  'Langs': 'C, Rust, Python, Ruby, Javascript, PHP , SQL',
+  'Services': 'Apache',
+  'Tech': 'Git, docker'
   'SO': 'Arch Linux'
 }
 ```
